@@ -1,0 +1,122 @@
+/* Dizaynni kuchaytirish qatlami — style.css ustidan ishlaydi.
+   Olib tashlash uchun index.html dagi enhance.css qatorini o'chiring. */
+:root{
+  --gold-grad:linear-gradient(135deg,#f3dda0 0%,#c8a45a 55%,#a98334 100%);
+  --sh-1:0 2px 6px rgba(7,17,12,.06),0 10px 30px rgba(7,17,12,.08);
+  --sh-2:0 4px 10px rgba(7,17,12,.08),0 26px 60px rgba(7,17,12,.16);
+  --glass:rgba(255,255,255,.06);
+  --glass-line:rgba(236,211,145,.22);
+}
+
+/* ---------- Umumiy ---------- */
+::selection{background:var(--brass);color:#1a1303}
+body{background:
+  radial-gradient(900px 500px at 100% 0,rgba(200,164,90,.10),transparent 70%),
+  var(--ivory)}
+h2{letter-spacing:-.015em}
+.sec-head h2,.two h2{position:relative}
+.sec-head h2::after{content:"";display:block;width:64px;height:3px;margin:18px auto 0;border-radius:3px;background:var(--gold-grad)}
+.eyebrow{padding:7px 14px;border:1px solid rgba(200,164,90,.4);border-radius:99px;background:rgba(200,164,90,.08)}
+.eyebrow::before,.sec-head .eyebrow::after{width:18px}
+.sec{position:relative}
+.sec.dark{background-image:
+  radial-gradient(circle at 85% 0,#1b4a37 0,transparent 55%),
+  radial-gradient(circle at 0 100%,#12301f 0,transparent 50%),
+  repeating-linear-gradient(135deg,rgba(255,255,255,.012) 0 2px,transparent 2px 14px)}
+
+/* ---------- Navigatsiya ---------- */
+.nav.scrolled,.nav.open{background:rgba(7,17,12,.78);backdrop-filter:blur(20px) saturate(1.5);-webkit-backdrop-filter:blur(20px) saturate(1.5);border-bottom:1px solid var(--glass-line)}
+.ball{background:radial-gradient(circle at 35% 30%,#9a9a9a,#000 70%);box-shadow:inset -3px -3px 6px rgba(0,0,0,.6),0 0 0 2px rgba(236,211,145,.5),0 6px 16px rgba(0,0,0,.5)}
+
+/* ---------- Tugmalar ---------- */
+.btn-gold{background:var(--gold-grad);box-shadow:0 10px 30px rgba(200,164,90,.4),inset 0 1px 0 rgba(255,255,255,.55)}
+.btn-gold:hover{transform:translateY(-3px)}
+.btn-ghost{backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.btn:active{transform:scale(.97)}
+
+/* ---------- Hero ---------- */
+.hero h1{text-shadow:0 4px 40px rgba(0,0,0,.45)}
+.hero h1 em{background:var(--gold-grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;padding-right:.06em}
+.tag{backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);background:rgba(7,17,12,.45)}
+.hero-bar{margin-top:6px;padding:22px 20px 24px;border:1px solid var(--glass-line);border-radius:22px;background:linear-gradient(180deg,rgba(255,255,255,.07),rgba(255,255,255,.02));backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);box-shadow:0 20px 50px rgba(0,0,0,.35)}
+.hb b{background:var(--gold-grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+
+/* ---------- Marquee ---------- */
+.marquee{background:var(--gold-grad);box-shadow:0 6px 24px rgba(200,164,90,.35)}
+
+/* ---------- Kartochkalar ---------- */
+.card{background:linear-gradient(180deg,rgba(255,255,255,.08),rgba(255,255,255,.02));border-color:var(--glass-line);box-shadow:0 18px 50px rgba(0,0,0,.28)}
+.card:hover{transform:translateY(-8px);box-shadow:0 36px 80px rgba(0,0,0,.5),0 0 0 1px var(--brass)}
+.chip{background:var(--gold-grad);box-shadow:0 6px 16px rgba(0,0,0,.35)}
+.glow{box-shadow:var(--sh-1);border-color:rgba(200,164,90,.22)}
+.glow:hover{transform:translateY(-6px);box-shadow:var(--sh-2);border-color:var(--brass)}
+.spec{border-radius:0 20px 20px 0;box-shadow:var(--sh-1);border-left-width:4px;border-image:linear-gradient(180deg,#f3dda0,#a98334) 1;border-image-slice:1;border-radius:0}
+
+/* ---------- Narxlar ---------- */
+.tier{border-radius:28px;box-shadow:var(--sh-1)}
+.tier:hover{transform:translateY(-8px);box-shadow:var(--sh-2)}
+.tier.feat{box-shadow:0 40px 90px rgba(7,17,12,.38),0 0 0 1.5px var(--brass)}
+.tier li::before{height:7px;width:7px;border-radius:50%;background:var(--gold-grad);top:.6em}
+.price b{background:var(--gold-grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.tier:not(.feat) .price b{background:linear-gradient(135deg,#8a6a22,#c8a45a);-webkit-background-clip:text;background-clip:text}
+
+/* ---------- Konfigurator va kalkulyator ---------- */
+.cfg-stage,.cfg-sum,.calc,.room{border-radius:24px}
+.cfg-stage{box-shadow:inset 0 0 0 1px var(--glass-line),0 24px 60px rgba(0,0,0,.35)}
+.seg button{transition:transform .2s var(--ease),background .25s,color .25s,border-color .25s,box-shadow .25s}
+.seg button:active,.sw button:active{transform:scale(.95)}
+.seg button.on{box-shadow:0 6px 16px rgba(0,0,0,.25)}
+.sw button.on{box-shadow:0 0 0 3px var(--brass),0 8px 20px rgba(0,0,0,.35)}
+.verdict{border-radius:14px;box-shadow:var(--sh-1)}
+
+/* ---------- Galereya ---------- */
+.g{border-radius:18px;box-shadow:0 10px 30px rgba(0,0,0,.18);transition:transform .45s var(--ease),box-shadow .45s,opacity .9s var(--ease)}
+.g:hover{transform:translateY(-4px) scale(1.01);box-shadow:0 24px 50px rgba(0,0,0,.32)}
+
+/* ---------- FAQ ---------- */
+details{border:1px solid rgba(255,255,255,.1);border-radius:18px;padding:20px 22px;margin-bottom:12px;background:linear-gradient(180deg,rgba(255,255,255,.05),rgba(255,255,255,.015));transition:border-color .3s,background .3s}
+details[open]{border-color:var(--glass-line);background:linear-gradient(180deg,rgba(236,211,145,.09),rgba(255,255,255,.02))}
+details[open] summary{color:var(--brass2)}
+
+/* ---------- Aloqa va forma ---------- */
+.form{border-radius:28px;border:1px solid var(--glass-line);box-shadow:0 40px 90px rgba(0,0,0,.4),inset 0 1px 0 rgba(255,255,255,.08)}
+.form input:focus,.form select:focus,.form textarea:focus,.calc input:focus{box-shadow:0 0 0 4px rgba(200,164,90,.22)}
+.contacts a{transition:color .25s,transform .25s var(--ease)}
+.contacts a:hover{transform:translateX(4px)}
+footer{background:linear-gradient(180deg,#07110c,#030805);border-top:1px solid var(--glass-line)}
+
+/* ---------- Do'kon ---------- */
+.tile{border-radius:22px;box-shadow:var(--sh-1)}
+.tile:hover{transform:translateY(-6px);box-shadow:var(--sh-2)}
+.pcard{border-radius:22px;box-shadow:var(--sh-1);border-color:rgba(200,164,90,.2)}
+.pcard:hover,.pcard:focus-visible{transform:translateY(-6px);box-shadow:var(--sh-2);border-color:var(--brass)}
+.pprice{background:linear-gradient(135deg,#8a6a22,#c8a45a);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.bigsearch{box-shadow:var(--sh-2)}
+.padd{box-shadow:0 8px 18px rgba(200,164,90,.35)}
+
+/* ---------- Pastki menyu va suzuvchi tugmalar ---------- */
+.tabbar,.mbar{background:rgba(7,17,12,.72);backdrop-filter:blur(22px) saturate(1.6);-webkit-backdrop-filter:blur(22px) saturate(1.6);border-top:1px solid var(--glass-line)}
+.tabbar .on{position:relative}
+.tabbar .on::before{content:"";position:absolute;top:-7px;width:26px;height:3px;border-radius:0 0 4px 4px;background:var(--gold-grad)}
+.dock a{backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);box-shadow:0 10px 26px rgba(0,0,0,.4)}
+
+/* ---------- Oyna ---------- */
+.sheet{border:1px solid var(--glass-line);box-shadow:0 40px 100px rgba(0,0,0,.5)}
+.scrim{backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+
+/* ---------- Skroll chizig'i ---------- */
+.progress{height:4px;box-shadow:0 0 14px rgba(236,211,145,.7)}
+
+/* ---------- Mobil ---------- */
+@media (max-width:760px){
+  .sec{padding:76px 0}
+  .hero-bar{padding:18px 16px}
+  .tier{padding:30px 24px}
+  .sec-head{margin-bottom:42px}
+}
+@media (hover:none){
+  .card:hover,.glow:hover,.tier:hover,.g:hover,.tile:hover,.pcard:hover{transform:none}
+}
+@media (prefers-reduced-motion:reduce){
+  .card,.glow,.tier,.g,.tile,.pcard,.contacts a{transition:none!important}
+}
