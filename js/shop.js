@@ -350,6 +350,11 @@ async function submitOrder(e) {
   if (digits.length < 9 || digits.length > 15) { showErr(t('err_phone')); return; }
   if (!api.ready) {
     if (!String(f.name || '').trim()) { showErr(t('err_name')); return; }
+    btn.disabled = true; btn.textContent = t('ck_sending');
+    const res = window.__lead ? await window.__lead({ type: 'cart', name: f.name, phone: f.phone, text: tgText(f), hp: f.hp || '' }) : null;
+    btn.disabled = false; btn.textContent = t('ck_tg');
+    if (res) { lastOrder = { id: res.id }; cart = []; saveCart(); cartStep = 'done'; renderCart(); renderCatalog(); renderShopHome(); return; }
+    // Worker sozlanmagan yoki xato: avvalgi usul — Telegram havolasi
     const url = TG_LINK + '?text=' + encodeURIComponent(tgText(f));
     if (window.__open) window.__open(url); else window.open(url, '_blank');
     return;

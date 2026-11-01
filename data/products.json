@@ -1,0 +1,2084 @@
+[
+ {
+  "id": "table-klassik-gold",
+  "cat": "table",
+  "sort": 10,
+  "active": true,
+  "badge": {
+   "uz": "Mashhur",
+   "ru": "Хит",
+   "en": "Popular"
+  },
+  "name": {
+   "uz": "Klassik Gold",
+   "ru": "Klassik Gold",
+   "en": "Klassik Gold"
+  },
+  "desc": {
+   "uz": "Qora lak ramka, oltin naqshli panel va o'ymakor oltin oyoqlar.",
+   "ru": "Чёрная лаковая рама, золотая панель и резные золотые ножки.",
+   "en": "Black lacquer frame, gold panel and carved gold legs."
+  },
+  "info": {
+   "uz": "Klub va VIP zallar uchun mo'ljallangan premium snooker stoli. Rang, oyoq shakli va panel bezagi buyurtma bo'yicha o'zgartiriladi. Dastavka va o'rnatish xizmati mavjud.",
+   "ru": "Премиальный снукерный стол для клубов и VIP-залов. Цвет, форма ножек и декор панели меняются под заказ. Доступны доставка и установка.",
+   "en": "A premium snooker table made for clubs and VIP rooms. Colour, leg style and panel trim can be changed to order. Delivery and installation are available."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Snooker"
+    ],
+    [
+     "O'lchamlar",
+     "12 / 10 / 9 fut"
+    ],
+    [
+     "O'yin maydoni (12 fut)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Ramka",
+     "Qora lak"
+    ],
+    [
+     "Oyoqlar",
+     "Oltin, o'ymakor"
+    ],
+    [
+     "Slanets",
+     "Marmar yoki grafit"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Снукер"
+    ],
+    [
+     "Размеры",
+     "12 / 10 / 9 фут"
+    ],
+    [
+     "Игровое поле (12 фут)",
+     "3569 × 1778 мм"
+    ],
+    [
+     "Рама",
+     "Чёрный лак"
+    ],
+    [
+     "Ножки",
+     "Золотые, резные"
+    ],
+    [
+     "Сланец",
+     "Мрамор или графит"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Snooker"
+    ],
+    [
+     "Sizes",
+     "12 / 10 / 9 ft"
+    ],
+    [
+     "Playing area (12 ft)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Frame",
+     "Black lacquer"
+    ],
+    [
+     "Legs",
+     "Gold, carved"
+    ],
+    [
+     "Slate",
+     "Marble or graphite"
+    ]
+   ]
+  },
+  "price": 1800,
+  "priceMax": 5000,
+  "variants": [
+   {
+    "name": {
+     "uz": "Dizayn stol",
+     "ru": "Дизайнерский стол",
+     "en": "Design table"
+    },
+    "price": 1800,
+    "priceMax": 3000
+   },
+   {
+    "name": {
+     "uz": "Slanetli (marmar yoki grafit)",
+     "ru": "Со сланцем (мрамор или графит)",
+     "en": "With slate (marble or graphite)"
+    },
+    "price": 3400,
+    "priceMax": 5000
+   }
+  ],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/opt/o3-960.webp",
+   "img/opt/o7-960.webp",
+   "img/opt/o2-960.webp"
+  ]
+ },
+ {
+  "id": "table-premium-white",
+  "cat": "table",
+  "sort": 20,
+  "active": true,
+  "badge": {
+   "uz": "Yangi",
+   "ru": "Новинка",
+   "en": "New"
+  },
+  "name": {
+   "uz": "Premium White",
+   "ru": "Premium White",
+   "en": "Premium White"
+  },
+  "desc": {
+   "uz": "Oq lak va kumush naqsh. Yorug' interyer va kafe uchun.",
+   "ru": "Белый лак и серебристый узор. Для светлых интерьеров и кафе.",
+   "en": "White lacquer with a silver ornament. For bright interiors and cafés."
+  },
+  "info": {
+   "uz": "Toza va yengil ko'rinishdagi zamonaviy snooker stoli. Rang, oyoq shakli va panel bezagi buyurtma bo'yicha o'zgartiriladi. Dastavka va o'rnatish xizmati mavjud.",
+   "ru": "Современный снукерный стол с чистым и лёгким видом. Цвет, форма ножек и декор панели меняются под заказ. Доступны доставка и установка.",
+   "en": "A contemporary snooker table with a clean, light look. Colour, leg style and panel trim can be changed to order. Delivery and installation are available."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Snooker"
+    ],
+    [
+     "O'lchamlar",
+     "12 / 10 / 9 fut"
+    ],
+    [
+     "O'yin maydoni (12 fut)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Ramka",
+     "Oq lak"
+    ],
+    [
+     "Oyoqlar",
+     "Oq, qirrali"
+    ],
+    [
+     "Slanets",
+     "Marmar yoki grafit"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Снукер"
+    ],
+    [
+     "Размеры",
+     "12 / 10 / 9 фут"
+    ],
+    [
+     "Игровое поле (12 фут)",
+     "3569 × 1778 мм"
+    ],
+    [
+     "Рама",
+     "Белый лак"
+    ],
+    [
+     "Ножки",
+     "Белые, рифлёные"
+    ],
+    [
+     "Сланец",
+     "Мрамор или графит"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Snooker"
+    ],
+    [
+     "Sizes",
+     "12 / 10 / 9 ft"
+    ],
+    [
+     "Playing area (12 ft)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Frame",
+     "White lacquer"
+    ],
+    [
+     "Legs",
+     "White, fluted"
+    ],
+    [
+     "Slate",
+     "Marble or graphite"
+    ]
+   ]
+  },
+  "price": 1800,
+  "priceMax": 5000,
+  "variants": [
+   {
+    "name": {
+     "uz": "Dizayn stol",
+     "ru": "Дизайнерский стол",
+     "en": "Design table"
+    },
+    "price": 1800,
+    "priceMax": 3000
+   },
+   {
+    "name": {
+     "uz": "Slanetli (marmar yoki grafit)",
+     "ru": "Со сланцем (мрамор или графит)",
+     "en": "With slate (marble or graphite)"
+    },
+    "price": 3400,
+    "priceMax": 5000
+   }
+  ],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/opt/o5-960.webp",
+   "img/opt/o4-960.webp"
+  ]
+ },
+ {
+  "id": "table-modern-bw",
+  "cat": "table",
+  "sort": 30,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Modern B&W",
+   "ru": "Modern B&W",
+   "en": "Modern B&W"
+  },
+  "desc": {
+   "uz": "Kvadrat ustun oyoqlar va qora-oq kontrast.",
+   "ru": "Ножки-колонны квадратного сечения и чёрно-белый контраст.",
+   "en": "Square column legs and a black-and-white contrast."
+  },
+  "info": {
+   "uz": "To'g'ri chiziqlarni yoqtiradigan minimalist interyerlar uchun stol. Rang, oyoq shakli va panel bezagi buyurtma bo'yicha o'zgartiriladi. Dastavka va o'rnatish xizmati mavjud.",
+   "ru": "Стол для минималистичных интерьеров с чёткими линиями. Цвет, форма ножек и декор панели меняются под заказ. Доступны доставка и установка.",
+   "en": "A table for minimalist interiors with clean lines. Colour, leg style and panel trim can be changed to order. Delivery and installation are available."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Snooker"
+    ],
+    [
+     "O'lchamlar",
+     "12 / 10 / 9 fut"
+    ],
+    [
+     "O'yin maydoni (12 fut)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Ramka",
+     "Qora lak"
+    ],
+    [
+     "Oyoqlar",
+     "Oq, kvadrat"
+    ],
+    [
+     "Slanets",
+     "Marmar yoki grafit"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Снукер"
+    ],
+    [
+     "Размеры",
+     "12 / 10 / 9 фут"
+    ],
+    [
+     "Игровое поле (12 фут)",
+     "3569 × 1778 мм"
+    ],
+    [
+     "Рама",
+     "Чёрный лак"
+    ],
+    [
+     "Ножки",
+     "Белые, квадратные"
+    ],
+    [
+     "Сланец",
+     "Мрамор или графит"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Snooker"
+    ],
+    [
+     "Sizes",
+     "12 / 10 / 9 ft"
+    ],
+    [
+     "Playing area (12 ft)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Frame",
+     "Black lacquer"
+    ],
+    [
+     "Legs",
+     "White, square"
+    ],
+    [
+     "Slate",
+     "Marble or graphite"
+    ]
+   ]
+  },
+  "price": 1800,
+  "priceMax": 5000,
+  "variants": [
+   {
+    "name": {
+     "uz": "Dizayn stol",
+     "ru": "Дизайнерский стол",
+     "en": "Design table"
+    },
+    "price": 1800,
+    "priceMax": 3000
+   },
+   {
+    "name": {
+     "uz": "Slanetli (marmar yoki grafit)",
+     "ru": "Со сланцем (мрамор или графит)",
+     "en": "With slate (marble or graphite)"
+    },
+    "price": 3400,
+    "priceMax": 5000
+   }
+  ],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/opt/z35-960.webp",
+   "img/opt/o1-960.webp",
+   "img/opt/z06-960.webp"
+  ]
+ },
+ {
+  "id": "table-mahogany-classic",
+  "cat": "table",
+  "sort": 40,
+  "active": true,
+  "badge": {
+   "uz": "Klassika",
+   "ru": "Классика",
+   "en": "Classic"
+  },
+  "name": {
+   "uz": "Mahogany Classic",
+   "ru": "Mahogany Classic",
+   "en": "Mahogany Classic"
+  },
+  "desc": {
+   "uz": "Issiq yog'och rangi, naqshli oyoqlar va nafis panel.",
+   "ru": "Тёплый цвет дерева, резные ножки и изящная панель.",
+   "en": "Warm wood tone, carved legs and an elegant panel."
+  },
+  "info": {
+   "uz": "Vaqt sinovidan o'tgan klassik uslubdagi snooker stoli. Rang, oyoq shakli va panel bezagi buyurtma bo'yicha o'zgartiriladi. Dastavka va o'rnatish xizmati mavjud.",
+   "ru": "Классический снукерный стол, проверенный временем. Цвет, форма ножек и декор панели меняются под заказ. Доступны доставка и установка.",
+   "en": "A classic snooker table that never dates. Colour, leg style and panel trim can be changed to order. Delivery and installation are available."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Snooker"
+    ],
+    [
+     "O'lchamlar",
+     "12 / 10 / 9 fut"
+    ],
+    [
+     "O'yin maydoni (12 fut)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Ramka",
+     "Yog'och lak"
+    ],
+    [
+     "Oyoqlar",
+     "Naqshli"
+    ],
+    [
+     "Slanets",
+     "Marmar yoki grafit"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Снукер"
+    ],
+    [
+     "Размеры",
+     "12 / 10 / 9 фут"
+    ],
+    [
+     "Игровое поле (12 фут)",
+     "3569 × 1778 мм"
+    ],
+    [
+     "Рама",
+     "Лак под дерево"
+    ],
+    [
+     "Ножки",
+     "Резные"
+    ],
+    [
+     "Сланец",
+     "Мрамор или графит"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Snooker"
+    ],
+    [
+     "Sizes",
+     "12 / 10 / 9 ft"
+    ],
+    [
+     "Playing area (12 ft)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Frame",
+     "Wood lacquer"
+    ],
+    [
+     "Legs",
+     "Carved"
+    ],
+    [
+     "Slate",
+     "Marble or graphite"
+    ]
+   ]
+  },
+  "price": 1800,
+  "priceMax": 5000,
+  "variants": [
+   {
+    "name": {
+     "uz": "Dizayn stol",
+     "ru": "Дизайнерский стол",
+     "en": "Design table"
+    },
+    "price": 1800,
+    "priceMax": 3000
+   },
+   {
+    "name": {
+     "uz": "Slanetli (marmar yoki grafit)",
+     "ru": "Со сланцем (мрамор или графит)",
+     "en": "With slate (marble or graphite)"
+    },
+    "price": 3400,
+    "priceMax": 5000
+   }
+  ],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/opt/z14-960.webp",
+   "img/opt/z36-960.webp",
+   "img/opt/z23-960.webp"
+  ]
+ },
+ {
+  "id": "table-marble-legs",
+  "cat": "table",
+  "sort": 50,
+  "active": true,
+  "badge": {
+   "uz": "Premium",
+   "ru": "Премиум",
+   "en": "Premium"
+  },
+  "name": {
+   "uz": "Marble Legs",
+   "ru": "Marble Legs",
+   "en": "Marble Legs"
+  },
+  "desc": {
+   "uz": "Yog'och ramka va marmar naqshli oyoqlar.",
+   "ru": "Деревянная рама и ножки с мраморным рисунком.",
+   "en": "Wooden frame and marble-pattern legs."
+  },
+  "info": {
+   "uz": "Noyob va qimmat ko'rinishdagi snooker stoli. Rang, oyoq shakli va panel bezagi buyurtma bo'yicha o'zgartiriladi. Dastavka va o'rnatish xizmati mavjud.",
+   "ru": "Редкий и дорогой на вид снукерный стол. Цвет, форма ножек и декор панели меняются под заказ. Доступны доставка и установка.",
+   "en": "A rare, luxurious-looking snooker table. Colour, leg style and panel trim can be changed to order. Delivery and installation are available."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Snooker"
+    ],
+    [
+     "O'lchamlar",
+     "12 / 10 / 9 fut"
+    ],
+    [
+     "O'yin maydoni (12 fut)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Ramka",
+     "Yog'och"
+    ],
+    [
+     "Oyoqlar",
+     "Marmar naqshli"
+    ],
+    [
+     "Slanets",
+     "Marmar yoki grafit"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Снукер"
+    ],
+    [
+     "Размеры",
+     "12 / 10 / 9 фут"
+    ],
+    [
+     "Игровое поле (12 фут)",
+     "3569 × 1778 мм"
+    ],
+    [
+     "Рама",
+     "Дерево"
+    ],
+    [
+     "Ножки",
+     "С мраморным рисунком"
+    ],
+    [
+     "Сланец",
+     "Мрамор или графит"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Snooker"
+    ],
+    [
+     "Sizes",
+     "12 / 10 / 9 ft"
+    ],
+    [
+     "Playing area (12 ft)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Frame",
+     "Wood"
+    ],
+    [
+     "Legs",
+     "Marble pattern"
+    ],
+    [
+     "Slate",
+     "Marble or graphite"
+    ]
+   ]
+  },
+  "price": 1800,
+  "priceMax": 5000,
+  "variants": [
+   {
+    "name": {
+     "uz": "Dizayn stol",
+     "ru": "Дизайнерский стол",
+     "en": "Design table"
+    },
+    "price": 1800,
+    "priceMax": 3000
+   },
+   {
+    "name": {
+     "uz": "Slanetli (marmar yoki grafit)",
+     "ru": "Со сланцем (мрамор или графит)",
+     "en": "With slate (marble or graphite)"
+    },
+    "price": 3400,
+    "priceMax": 5000
+   }
+  ],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/opt/z15-960.webp",
+   "img/opt/z08-960.webp",
+   "img/opt/z10-960.webp",
+   "img/opt/z13-960.webp"
+  ]
+ },
+ {
+  "id": "table-graphite-black",
+  "cat": "table",
+  "sort": 60,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Graphite Black",
+   "ru": "Graphite Black",
+   "en": "Graphite Black"
+  },
+  "desc": {
+   "uz": "To'q grafit tus va ustun oyoqlar. Lounge va klublar uchun.",
+   "ru": "Тёмный графитовый тон и ножки-колонны. Для лаунжей и клубов.",
+   "en": "Deep graphite tone and column legs. For lounges and clubs."
+  },
+  "info": {
+   "uz": "Jiddiy va zamonaviy ko'rinishdagi stol. Rang, oyoq shakli va panel bezagi buyurtma bo'yicha o'zgartiriladi. Dastavka va o'rnatish xizmati mavjud.",
+   "ru": "Стол со строгим современным видом. Цвет, форма ножек и декор панели меняются под заказ. Доступны доставка и установка.",
+   "en": "A table with a serious, modern look. Colour, leg style and panel trim can be changed to order. Delivery and installation are available."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Snooker"
+    ],
+    [
+     "O'lchamlar",
+     "12 / 10 / 9 fut"
+    ],
+    [
+     "O'yin maydoni (12 fut)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Ramka",
+     "To'q lak"
+    ],
+    [
+     "Oyoqlar",
+     "Ustun shaklida"
+    ],
+    [
+     "Slanets",
+     "Marmar yoki grafit"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Снукер"
+    ],
+    [
+     "Размеры",
+     "12 / 10 / 9 фут"
+    ],
+    [
+     "Игровое поле (12 фут)",
+     "3569 × 1778 мм"
+    ],
+    [
+     "Рама",
+     "Тёмный лак"
+    ],
+    [
+     "Ножки",
+     "Ножки-колонны"
+    ],
+    [
+     "Сланец",
+     "Мрамор или графит"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Snooker"
+    ],
+    [
+     "Sizes",
+     "12 / 10 / 9 ft"
+    ],
+    [
+     "Playing area (12 ft)",
+     "3569 × 1778 mm"
+    ],
+    [
+     "Frame",
+     "Dark lacquer"
+    ],
+    [
+     "Legs",
+     "Column"
+    ],
+    [
+     "Slate",
+     "Marble or graphite"
+    ]
+   ]
+  },
+  "price": 1800,
+  "priceMax": 5000,
+  "variants": [
+   {
+    "name": {
+     "uz": "Dizayn stol",
+     "ru": "Дизайнерский стол",
+     "en": "Design table"
+    },
+    "price": 1800,
+    "priceMax": 3000
+   },
+   {
+    "name": {
+     "uz": "Slanetli (marmar yoki grafit)",
+     "ru": "Со сланцем (мрамор или графит)",
+     "en": "With slate (marble or graphite)"
+    },
+    "price": 3400,
+    "priceMax": 5000
+   }
+  ],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/opt/z00-960.webp",
+   "img/opt/z34-960.webp",
+   "img/opt/z31-960.webp"
+  ]
+ },
+ {
+  "id": "balls-super-aramith-pro",
+  "cat": "balls",
+  "sort": 70,
+  "active": true,
+  "badge": {
+   "uz": "Premium",
+   "ru": "Премиум",
+   "en": "Premium"
+  },
+  "name": {
+   "uz": "Super Aramith Pro",
+   "ru": "Super Aramith Pro",
+   "en": "Super Aramith Pro"
+  },
+  "desc": {
+   "uz": "Belgiyada ishlab chiqarilgan turnir sharlari.",
+   "ru": "Бельгийские турнирные шары.",
+   "en": "Belgian tournament balls."
+  },
+  "info": {
+   "uz": "Belgiyaning Saluc kompaniyasi ishlab chiqaradigan fenol smolali sharlar. Super Aramith Pro brendning yuqori toifasi hisoblanadi va turnirlarda ishlatiladi. Rus piramidasi uchun 16 sharlik to'plam.",
+   "ru": "Шары из фенольной смолы производства бельгийской Saluc. Super Aramith Pro — высшая линейка бренда, используется на турнирах. Комплект из 16 шаров для русской пирамиды.",
+   "en": "Phenolic-resin balls made by Saluc in Belgium. Super Aramith Pro is the brand's top line and is used in tournaments. A 16-ball set for Russian pyramid."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Rus piramidasi"
+    ],
+    [
+     "Sharlar soni",
+     "16 ta (15 raqamli + 1 bitok)"
+    ],
+    [
+     "Diametr",
+     "67–68 mm"
+    ],
+    [
+     "Ishlab chiqaruvchi",
+     "Saluc, Belgiya"
+    ],
+    [
+     "Material",
+     "Fenol smola (phenolic resin)"
+    ],
+    [
+     "Qadoq",
+     "Quti ichida"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Русская пирамида"
+    ],
+    [
+     "Количество",
+     "16 шт. (15 с номерами + биток)"
+    ],
+    [
+     "Диаметр",
+     "67–68 мм"
+    ],
+    [
+     "Производитель",
+     "Saluc, Бельгия"
+    ],
+    [
+     "Материал",
+     "Фенольная смола"
+    ],
+    [
+     "Упаковка",
+     "В коробке"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Russian pyramid"
+    ],
+    [
+     "Balls",
+     "16 (15 numbered + cue ball)"
+    ],
+    [
+     "Diameter",
+     "67–68 mm"
+    ],
+    [
+     "Maker",
+     "Saluc, Belgium"
+    ],
+    [
+     "Material",
+     "Phenolic resin"
+    ],
+    [
+     "Packing",
+     "Boxed"
+    ]
+   ]
+  },
+  "price": 300,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "to'plam",
+   "ru": "комплект",
+   "en": "set"
+  },
+  "images": [
+   "img/products/balls-aramith.svg"
+  ]
+ },
+ {
+  "id": "balls-dynaspheres",
+  "cat": "balls",
+  "sort": 80,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Dynaspheres",
+   "ru": "Dynaspheres",
+   "en": "Dynaspheres"
+  },
+  "desc": {
+   "uz": "Fenol smolali sharlar, Aramith'ga muqobil.",
+   "ru": "Шары из фенольной смолы, альтернатива Aramith.",
+   "en": "Phenolic-resin balls, an alternative to Aramith."
+  },
+  "info": {
+   "uz": "Fenol smolasidan tayyorlangan sharlar. Narx va sifat nisbati yaxshi bo'lgani uchun Aramith'ga muqobil sifatida tanilgan. Ikki variant: standart va optim.",
+   "ru": "Шары из фенольной смолы. Известны как альтернатива Aramith благодаря хорошему соотношению цены и качества. Два варианта: стандарт и оптим.",
+   "en": "Balls made of phenolic resin, known as an alternative to Aramith for their price-to-quality ratio. Two options: standard and optim."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Rus piramidasi"
+    ],
+    [
+     "Sharlar soni",
+     "16 ta (15 raqamli + 1 bitok)"
+    ],
+    [
+     "Diametr",
+     "67–68 mm"
+    ],
+    [
+     "Material",
+     "Fenol smola (phenolic resin)"
+    ],
+    [
+     "Qadoq",
+     "Quti ichida"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Русская пирамида"
+    ],
+    [
+     "Количество",
+     "16 шт. (15 с номерами + биток)"
+    ],
+    [
+     "Диаметр",
+     "67–68 мм"
+    ],
+    [
+     "Материал",
+     "Фенольная смола"
+    ],
+    [
+     "Упаковка",
+     "В коробке"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Russian pyramid"
+    ],
+    [
+     "Balls",
+     "16 (15 numbered + cue ball)"
+    ],
+    [
+     "Diameter",
+     "67–68 mm"
+    ],
+    [
+     "Material",
+     "Phenolic resin"
+    ],
+    [
+     "Packing",
+     "Boxed"
+    ]
+   ]
+  },
+  "price": 230,
+  "priceMax": null,
+  "variants": [
+   {
+    "name": {
+     "uz": "Standart",
+     "ru": "Стандарт",
+     "en": "Standard"
+    },
+    "price": 230,
+    "priceMax": null
+   },
+   {
+    "name": {
+     "uz": "Optim",
+     "ru": "Оптим",
+     "en": "Optim"
+    },
+    "price": 190,
+    "priceMax": null
+   }
+  ],
+  "unit": {
+   "uz": "to'plam",
+   "ru": "комплект",
+   "en": "set"
+  },
+  "images": [
+   "img/products/balls-dynaspheres.svg"
+  ]
+ },
+ {
+  "id": "balls-pyramid-tournament",
+  "cat": "balls",
+  "sort": 90,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Pyramid Tournament Set",
+   "ru": "Pyramid Tournament Set",
+   "en": "Pyramid Tournament Set"
+  },
+  "desc": {
+   "uz": "Turnir sharlari to'plami, qutida.",
+   "ru": "Турнирный комплект шаров в коробке.",
+   "en": "Tournament ball set, boxed."
+  },
+  "info": {
+   "uz": "Rus piramidasi uchun 16 sharlik turnir to'plami, qulay qutida. Raqamlar aniq ko'rinadi, bitok boshqa rangda.",
+   "ru": "Турнирный комплект из 16 шаров для русской пирамиды в удобной коробке. Номера чёткие, биток другого цвета.",
+   "en": "A 16-ball tournament set for Russian pyramid in a handy box. Numbers are clear and the cue ball has a different colour."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Rus piramidasi"
+    ],
+    [
+     "Sharlar soni",
+     "16 ta (15 raqamli + 1 bitok)"
+    ],
+    [
+     "Diametr",
+     "67–68 mm"
+    ],
+    [
+     "Qadoq",
+     "Quti ichida"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Русская пирамида"
+    ],
+    [
+     "Количество",
+     "16 шт. (15 с номерами + биток)"
+    ],
+    [
+     "Диаметр",
+     "67–68 мм"
+    ],
+    [
+     "Упаковка",
+     "В коробке"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Russian pyramid"
+    ],
+    [
+     "Balls",
+     "16 (15 numbered + cue ball)"
+    ],
+    [
+     "Diameter",
+     "67–68 mm"
+    ],
+    [
+     "Packing",
+     "Boxed"
+    ]
+   ]
+  },
+  "price": 150,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "to'plam",
+   "ru": "комплект",
+   "en": "set"
+  },
+  "images": [
+   "img/products/balls-pyramid.svg"
+  ]
+ },
+ {
+  "id": "balls-huoliebao",
+  "cat": "balls",
+  "sort": 100,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Huoliebao",
+   "ru": "Huoliebao",
+   "en": "Huoliebao"
+  },
+  "desc": {
+   "uz": "16 sharlik to'plam, qutida.",
+   "ru": "Комплект из 16 шаров в коробке.",
+   "en": "Set of 16 balls, boxed."
+  },
+  "info": {
+   "uz": "Rus piramidasi uchun 16 sharlik hamyonbop to'plam. Sharlar qutida yetkaziladi.",
+   "ru": "Недорогой комплект из 16 шаров для русской пирамиды. Поставляется в коробке.",
+   "en": "An affordable 16-ball set for Russian pyramid, delivered in a box."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Rus piramidasi"
+    ],
+    [
+     "Sharlar soni",
+     "16 ta (15 raqamli + 1 bitok)"
+    ],
+    [
+     "Diametr",
+     "67–68 mm"
+    ],
+    [
+     "Qadoq",
+     "Quti ichida"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Русская пирамида"
+    ],
+    [
+     "Количество",
+     "16 шт. (15 с номерами + биток)"
+    ],
+    [
+     "Диаметр",
+     "67–68 мм"
+    ],
+    [
+     "Упаковка",
+     "В коробке"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Russian pyramid"
+    ],
+    [
+     "Balls",
+     "16 (15 numbered + cue ball)"
+    ],
+    [
+     "Diameter",
+     "67–68 mm"
+    ],
+    [
+     "Packing",
+     "Boxed"
+    ]
+   ]
+  },
+  "price": 60,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "to'plam",
+   "ru": "комплект",
+   "en": "set"
+  },
+  "images": [
+   "img/products/balls-huoliebao.svg"
+  ]
+ },
+ {
+  "id": "balls-killer-shot",
+  "cat": "balls",
+  "sort": 110,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Killer Shot",
+   "ru": "Killer Shot",
+   "en": "Killer Shot"
+  },
+  "desc": {
+   "uz": "Turnir sifatidagi sharlar to'plami.",
+   "ru": "Комплект шаров турнирного качества.",
+   "en": "Tournament-quality ball set."
+  },
+  "info": {
+   "uz": "«Tournament Quality» deb belgilangan 16 sharlik to'plam. Rus piramidasi uchun, qutida.",
+   "ru": "Комплект из 16 шаров с маркировкой «Tournament Quality» для русской пирамиды, в коробке.",
+   "en": "A 16-ball set marked “Tournament Quality” for Russian pyramid, boxed."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Turi",
+     "Rus piramidasi"
+    ],
+    [
+     "Sharlar soni",
+     "16 ta (15 raqamli + 1 bitok)"
+    ],
+    [
+     "Diametr",
+     "67–68 mm"
+    ],
+    [
+     "Qadoq",
+     "Quti ichida"
+    ]
+   ],
+   "ru": [
+    [
+     "Тип",
+     "Русская пирамида"
+    ],
+    [
+     "Количество",
+     "16 шт. (15 с номерами + биток)"
+    ],
+    [
+     "Диаметр",
+     "67–68 мм"
+    ],
+    [
+     "Упаковка",
+     "В коробке"
+    ]
+   ],
+   "en": [
+    [
+     "Type",
+     "Russian pyramid"
+    ],
+    [
+     "Balls",
+     "16 (15 numbered + cue ball)"
+    ],
+    [
+     "Diameter",
+     "67–68 mm"
+    ],
+    [
+     "Packing",
+     "Boxed"
+    ]
+   ]
+  },
+  "price": 45,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "to'plam",
+   "ru": "комплект",
+   "en": "set"
+  },
+  "images": [
+   "img/products/balls-killer.svg"
+  ]
+ },
+ {
+  "id": "cue-klubny",
+  "cat": "cues",
+  "sort": 120,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Kiyu «Klubniy»",
+   "ru": "Кий «Клубный»",
+   "en": "Club cue"
+  },
+  "desc": {
+   "uz": "To'g'ri kiyu, 161 sm, shumtol yog'ochi.",
+   "ru": "Прямой кий, 161 см, ясень.",
+   "en": "Straight cue, 161 cm, ash wood."
+  },
+  "info": {
+   "uz": "Rus bilyardi uchun klub kiyusi. Shumtol (ash) yog'ochidan, 161 sm. Rus bilyardi kiyulari odatda 160 sm atrofida, vazni 650–750 g bo'ladi.",
+   "ru": "Клубный кий для русского бильярда из ясеня, 161 см. Кии для русского бильярда обычно около 160 см и весят 650–750 г.",
+   "en": "A club cue for Russian billiards made of ash, 161 cm. Russian billiard cues are typically about 160 cm and weigh 650–750 g."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Uzunligi",
+     "161 sm"
+    ],
+    [
+     "Turi",
+     "To'g'ri (bir qismli)"
+    ],
+    [
+     "Yog'och",
+     "Shumtol"
+    ],
+    [
+     "Mo'ljallangan",
+     "Rus bilyardi"
+    ],
+    [
+     "Vazni",
+     "650–750 g (odatiy)"
+    ]
+   ],
+   "ru": [
+    [
+     "Длина",
+     "161 см"
+    ],
+    [
+     "Тип",
+     "Цельный"
+    ],
+    [
+     "Древесина",
+     "Ясень"
+    ],
+    [
+     "Назначение",
+     "Русский бильярд"
+    ],
+    [
+     "Вес",
+     "650–750 г (обычно)"
+    ]
+   ],
+   "en": [
+    [
+     "Length",
+     "161 cm"
+    ],
+    [
+     "Type",
+     "Straight (one-piece)"
+    ],
+    [
+     "Wood",
+     "Ash"
+    ],
+    [
+     "For",
+     "Russian billiards"
+    ],
+    [
+     "Weight",
+     "650–750 g (typical)"
+    ]
+   ]
+  },
+  "price": 95,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/products/cue-club.svg"
+  ]
+ },
+ {
+  "id": "cue-two-piece",
+  "cat": "cues",
+  "sort": 130,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Kiyu, ikki qismli",
+   "ru": "Кий, составной",
+   "en": "Two-piece cue"
+  },
+  "desc": {
+   "uz": "Ajraladigan kiyu, 160–163 sm, 700 g.",
+   "ru": "Разборный кий, 160–163 см, 700 г.",
+   "en": "Detachable cue, 160–163 cm, 700 g."
+  },
+  "info": {
+   "uz": "Ikki qismga ajraladigan kiyu: tashish va saqlash qulay. Uzunligi 160–163 sm, vazni 700 g.",
+   "ru": "Разборный кий из двух частей: удобно возить и хранить. Длина 160–163 см, вес 700 г.",
+   "en": "A two-piece detachable cue that is easy to carry and store. Length 160–163 cm, weight 700 g."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Uzunligi",
+     "160–163 sm"
+    ],
+    [
+     "Turi",
+     "Ikki qismli, ajraladigan"
+    ],
+    [
+     "Yog'och",
+     "Yog'och"
+    ],
+    [
+     "Mo'ljallangan",
+     "Rus bilyardi"
+    ],
+    [
+     "Vazni",
+     "700 g"
+    ]
+   ],
+   "ru": [
+    [
+     "Длина",
+     "160–163 см"
+    ],
+    [
+     "Тип",
+     "Составной, разборный"
+    ],
+    [
+     "Древесина",
+     "Дерево"
+    ],
+    [
+     "Назначение",
+     "Русский бильярд"
+    ],
+    [
+     "Вес",
+     "700 г"
+    ]
+   ],
+   "en": [
+    [
+     "Length",
+     "160–163 cm"
+    ],
+    [
+     "Type",
+     "Two-piece, detachable"
+    ],
+    [
+     "Wood",
+     "Wood"
+    ],
+    [
+     "For",
+     "Russian billiards"
+    ],
+    [
+     "Weight",
+     "700 g"
+    ]
+   ]
+  },
+  "price": 40,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/products/cue-two.svg"
+  ]
+ },
+ {
+  "id": "acc-start-pockets",
+  "cat": "acc",
+  "sort": 140,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Start charm cho'ntaklari",
+   "ru": "Кожаные лузы Start",
+   "en": "Start leather pockets"
+  },
+  "desc": {
+   "uz": "Teri cho'ntak, 1 dona narxi.",
+   "ru": "Кожаные лузы, цена за 1 шт.",
+   "en": "Leather pockets, price per piece."
+  },
+  "info": {
+   "uz": "Stol uchun teri cho'ntak (Start). Rus piramidasi stollarida burchak cho'ntagining ochilishi odatda 72–73 mm, o'rta cho'ntakniki 82–83 mm bo'ladi. Ikki variant: standart va optim.",
+   "ru": "Кожаные лузы Start для стола. На столах для русской пирамиды зев угловой лузы обычно 72–73 мм, средней — 82–83 мм. Два варианта: стандарт и оптим.",
+   "en": "Start leather pockets for the table. On Russian pyramid tables the corner pocket opening is typically 72–73 mm and the middle pocket 82–83 mm. Two options: standard and optim."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Material",
+     "Charm (teri)"
+    ],
+    [
+     "Brend",
+     "Start"
+    ],
+    [
+     "Narx",
+     "1 dona uchun"
+    ]
+   ],
+   "ru": [
+    [
+     "Материал",
+     "Кожа"
+    ],
+    [
+     "Бренд",
+     "Start"
+    ],
+    [
+     "Цена",
+     "За 1 шт."
+    ]
+   ],
+   "en": [
+    [
+     "Material",
+     "Leather"
+    ],
+    [
+     "Brand",
+     "Start"
+    ],
+    [
+     "Price",
+     "Per piece"
+    ]
+   ]
+  },
+  "price": 150,
+  "priceMax": null,
+  "variants": [
+   {
+    "name": {
+     "uz": "Standart",
+     "ru": "Стандарт",
+     "en": "Standard"
+    },
+    "price": 150,
+    "priceMax": null
+   },
+   {
+    "name": {
+     "uz": "Optim",
+     "ru": "Оптим",
+     "en": "Optim"
+    },
+    "price": 135,
+    "priceMax": null
+   }
+  ],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/opt/z32-960.webp"
+  ]
+ },
+ {
+  "id": "acc-pocket-net",
+  "cat": "acc",
+  "sort": 150,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Cho'ntak to'ri (setka)",
+   "ru": "Сетка для лузы",
+   "en": "Pocket net"
+  },
+  "desc": {
+   "uz": "Zich to'qilgan to'r, sharlarni ushlab turadi.",
+   "ru": "Плотное плетение, надёжно держит шары.",
+   "en": "Tightly knitted net that holds the balls."
+  },
+  "info": {
+   "uz": "Cho'ntak uchun zich to'qilgan to'r. Sharlarni o'tkazib yubormaydi va stolga chiroyli ko'rinish beradi.",
+   "ru": "Плотно сплетённая сетка для лузы. Не пропускает шары и красиво смотрится на столе.",
+   "en": "A tightly knitted pocket net. It stops the balls from slipping through and looks good on the table."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Material",
+     "To'qilgan ip"
+    ],
+    [
+     "Rang",
+     "Oq"
+    ]
+   ],
+   "ru": [
+    [
+     "Материал",
+     "Плетёная нить"
+    ],
+    [
+     "Цвет",
+     "Белый"
+    ]
+   ],
+   "en": [
+    [
+     "Material",
+     "Knitted cord"
+    ],
+    [
+     "Colour",
+     "White"
+    ]
+   ]
+  },
+  "price": 10,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/products/net.svg"
+  ]
+ },
+ {
+  "id": "acc-start-rubber",
+  "cat": "acc",
+  "sort": 160,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Start bort rezinasi",
+   "ru": "Резина бортов Start",
+   "en": "Start cushion rubber"
+  },
+  "desc": {
+   "uz": "Stol borti uchun rezina.",
+   "ru": "Резина для бортов стола.",
+   "en": "Rubber for the table cushions."
+  },
+  "info": {
+   "uz": "Stol bortlari uchun Start rezinasi. Rezina to'pning bortdan to'g'ri va tez qaytishini ta'minlaydi.",
+   "ru": "Резина Start для бортов стола. От неё зависит, как ровно и быстро шар отскакивает от борта.",
+   "en": "Start rubber for table cushions. It decides how true and lively the ball rebounds."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Brend",
+     "Start"
+    ],
+    [
+     "Vazifasi",
+     "Bort rezinasi"
+    ]
+   ],
+   "ru": [
+    [
+     "Бренд",
+     "Start"
+    ],
+    [
+     "Назначение",
+     "Резина для бортов"
+    ]
+   ],
+   "en": [
+    [
+     "Brand",
+     "Start"
+    ],
+    [
+     "Use",
+     "Cushion rubber"
+    ]
+   ]
+  },
+  "price": 62,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/products/rubber.svg"
+  ]
+ },
+ {
+  "id": "acc-ball-shelf",
+  "cat": "acc",
+  "sort": 170,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Sharlar polkasi",
+   "ru": "Полка для шаров",
+   "en": "Ball shelf"
+  },
+  "desc": {
+   "uz": "Ikki qavatli yog'och polka.",
+   "ru": "Двухъярусная деревянная полка.",
+   "en": "Two-tier wooden shelf."
+  },
+  "info": {
+   "uz": "Sharlarni tartibda saqlash uchun ikki qavatli yog'och polka. Sharlar yo'qolmaydi va doim ko'z oldida turadi.",
+   "ru": "Двухъярусная деревянная полка для хранения шаров. Шары не теряются и всегда на виду.",
+   "en": "A two-tier wooden shelf for storing balls. They stay in order and never get lost."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Qavatlar",
+     "2"
+    ],
+    [
+     "Material",
+     "Yog'och"
+    ]
+   ],
+   "ru": [
+    [
+     "Ярусов",
+     "2"
+    ],
+    [
+     "Материал",
+     "Дерево"
+    ]
+   ],
+   "en": [
+    [
+     "Tiers",
+     "2"
+    ],
+    [
+     "Material",
+     "Wood"
+    ]
+   ]
+  },
+  "price": 30,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/opt/p01-960.webp"
+  ]
+ },
+ {
+  "id": "acc-start-shelf",
+  "cat": "acc",
+  "sort": 180,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Start polkasi",
+   "ru": "Полка Start",
+   "en": "Start shelf"
+  },
+  "desc": {
+   "uz": "Katta yog'och polka, 5 qavatli.",
+   "ru": "Большая деревянная полка, 5 ярусов.",
+   "en": "Large wooden shelf, 5 tiers."
+  },
+  "info": {
+   "uz": "Start brendli katta devor polkasi: 5 qavatda sharlar tartib bilan turadi. Zalga chiroyli ko'rinish beradi.",
+   "ru": "Большая настенная полка Start: шары стоят в порядке на 5 ярусах. Украшает зал.",
+   "en": "A large Start wall shelf: balls sit in order on 5 tiers. It adds style to the hall."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Qavatlar",
+     "5"
+    ],
+    [
+     "Brend",
+     "Start"
+    ],
+    [
+     "Material",
+     "Yog'och"
+    ]
+   ],
+   "ru": [
+    [
+     "Ярусов",
+     "5"
+    ],
+    [
+     "Бренд",
+     "Start"
+    ],
+    [
+     "Материал",
+     "Дерево"
+    ]
+   ],
+   "en": [
+    [
+     "Tiers",
+     "5"
+    ],
+    [
+     "Brand",
+     "Start"
+    ],
+    [
+     "Material",
+     "Wood"
+    ]
+   ]
+  },
+  "price": 120,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/products/shelf5.svg"
+  ]
+ },
+ {
+  "id": "acc-triangle",
+  "cat": "acc",
+  "sort": 190,
+  "active": true,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Uchburchak",
+   "ru": "Треугольник",
+   "en": "Triangle"
+  },
+  "desc": {
+   "uz": "Plastmassa, har yoni 36 sm.",
+   "ru": "Пластик, сторона 36 см.",
+   "en": "Plastic, 36 cm per side."
+  },
+  "info": {
+   "uz": "Sharlarni to'g'ri joylashtirish uchun plastmassa uchburchak. Har yoni 36 sm, qalinligi 4 sm; yengil va mustahkam.",
+   "ru": "Пластиковый треугольник для ровной расстановки шаров. Сторона 36 см, толщина 4 см; лёгкий и прочный.",
+   "en": "A plastic triangle for racking the balls neatly. 36 cm per side, 4 cm thick; light and sturdy."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Har yoni",
+     "36 sm"
+    ],
+    [
+     "Qalinligi",
+     "4 sm"
+    ],
+    [
+     "Material",
+     "Plastmassa"
+    ]
+   ],
+   "ru": [
+    [
+     "Сторона",
+     "36 см"
+    ],
+    [
+     "Толщина",
+     "4 см"
+    ],
+    [
+     "Материал",
+     "Пластик"
+    ]
+   ],
+   "en": [
+    [
+     "Side",
+     "36 cm"
+    ],
+    [
+     "Thickness",
+     "4 cm"
+    ],
+    [
+     "Material",
+     "Plastic"
+    ]
+   ]
+  },
+  "price": 7,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": [
+   "img/products/triangle.svg"
+  ]
+ },
+ {
+  "id": "acc-orero-slate",
+  "cat": "acc",
+  "sort": 200,
+  "active": false,
+  "badge": {
+   "uz": "",
+   "ru": "",
+   "en": ""
+  },
+  "name": {
+   "uz": "Orero slanets",
+   "ru": "Сланец Orero",
+   "en": "Orero slate"
+  },
+  "desc": {
+   "uz": "Tabiiy tosh taxta.",
+   "ru": "Натуральная каменная плита.",
+   "en": "Natural stone slate."
+  },
+  "info": {
+   "uz": "Tabiiy tosh taxta (slanets). Narx birligi aniqlanmoqda, admin paneldan to'ldiring.",
+   "ru": "Натуральная каменная плита. Единица цены уточняется — заполните в админ-панели.",
+   "en": "Natural stone slate. The price unit is being confirmed; fill it in from the admin panel."
+  },
+  "specs": {
+   "uz": [
+    [
+     "Material",
+     "Tabiiy tosh"
+    ]
+   ],
+   "ru": [
+    [
+     "Материал",
+     "Натуральный камень"
+    ]
+   ],
+   "en": [
+    [
+     "Material",
+     "Natural stone"
+    ]
+   ]
+  },
+  "price": null,
+  "priceMax": null,
+  "variants": [],
+  "unit": {
+   "uz": "dona",
+   "ru": "шт.",
+   "en": "pc"
+  },
+  "images": []
+ }
+]

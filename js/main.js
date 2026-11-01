@@ -326,13 +326,33 @@ $('#copy').addEventListener('click', async e => {
   try { await navigator.clipboard.writeText('+998888885582'); b.textContent = '✓'; } catch (err) { b.textContent = '+998888885582'; }
   setTimeout(() => { b.innerHTML = old; }, 1800);
 });
-$('#form').addEventListener('submit', e => {
+const LEAD_MSG = {
+  uz: { ok: 'Yuborildi ✓ Tez orada bog\u02bblanamiz', sending: 'Yuborilmoqda…' },
+  ru: { ok: 'Отправлено ✓ Скоро свяжемся', sending: 'Отправка…' },
+  en: { ok: 'Sent ✓ We will contact you soon', sending: 'Sending…' }
+};
+window.__lead = async payload => {
+  const wa = window.Telegram && window.Telegram.WebApp;
+  try {
+    const r = await fetch('/api/lead', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ ...payload, lang, initData: (wa && wa.initData) || '' }) });
+    const d = await r.json().catch(() => null);
+    return r.ok && d && d.ok ? d : null;
+  } catch (e) { return null; }
+};
+$('#form').addEventListener('submit', async e => {
   e.preventDefault();
-  const f = new FormData(e.target);
+  const form = e.target, f = new FormData(form);
   const model = f.get('model') === 'Custom' ? t('k_other') : f.get('model');
-  const text = t('msg', { name: f.get('name'), phone: f.get('phone'), model, msg: f.get('msg') || '-' });
-  const url = 'https://t.me/+998888885582?text=' + encodeURIComponent(text);
-  window.__open(url);
+  const btn = $('button[type=submit]', form), label = $('span', btn), old = label.textContent, m = LEAD_MSG[lang] || LEAD_MSG.uz;
+  btn.disabled = true; label.textContent = m.sending;
+  const text = `Model: ${model}\n${f.get('msg') || '-'}`;
+  const res = await window.__lead({ type: 'contact', name: f.get('name'), phone: f.get('phone'), text, hp: f.get('hp') || '' });
+  btn.disabled = false;
+  if (res) { label.textContent = m.ok; form.reset(); setTimeout(() => { label.textContent = old; }, 4000); return; }
+  label.textContent = old;
+  // Worker sozlanmagan yoki xato: avvalgi usul — Telegram havolasi
+  const msg = t('msg', { name: f.get('name'), phone: f.get('phone'), model, msg: f.get('msg') || '-' });
+  window.__open('https://t.me/+998888885582?text=' + encodeURIComponent(msg));
 });
 $('#yr').textContent = new Date().getFullYear();
 
