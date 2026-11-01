@@ -2,6 +2,7 @@
   "name": "biliard",
   "main": "worker.js",
   "workers_dev": true,
+  "keep_vars": true,
   "compatibility_date": "2026-11-01",
   "assets": { "directory": ".", "binding": "ASSETS", "run_worker_first": ["/api/*"] }
 }
